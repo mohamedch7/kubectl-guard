@@ -24,5 +24,3 @@
 
 - This is a small demo. Exercise caution when using it.
 - Always ensure that the name of the production cluster contains the word 'prod'.
-
-Your feedback is highly appreciated! 😁
